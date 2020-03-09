@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://veiqueomai.wanggaoyi.top/sitemap.xml
